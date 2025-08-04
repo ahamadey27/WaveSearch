@@ -22,6 +22,6 @@ how the program is working from an intermediate student's standpoint
 * Follow the spec.md sheet as your main guide and use the Outline.md sheet to reference for more details
 * For each instruction, please also include the code I should implement in addition to the Instructions and explanation.
 * Run application from C:\Users\hamad\Documents\GitHub\AnimalShelterApp\AnimalShelterApp\AnimalShelterApp> using the command `dotnet run`
-* Always work with the directory path C:\Users\hamad\Documents\GitHub\AnimalShelterApp\AnimalShelterApp\AnimalShelterApp> when running commands
+* Always work with the directory path C:\Users\hamad\Documents\GitHub\WaveSearch\WaveSearch\ when running commands in the command line
 
 - Do not name classes and methods the same in C#. For example, avoid having a class named `MusicTheoryService` and a method named `MusicTheoryService` in the same file. Use clear, distinct names for each class and method to prevent confusion and errors.

@@ -86,7 +86,7 @@
 ## Phase 1: Foundational Backend and Admin Interface
 + [x] **Step 1.1: Project Initialization:** Set up a monorepo structure with a Node.js backend and a `create-react-app` frontend.
 + [x] **Step 1.2: Backend Server & Vercel Config:** Initialize a basic Express server and create a `vercel.json` file to configure serverless function routing.
-+ [ ] **Step 1.3: Database Provisioning & Schema:** Provision a Vercel Postgres database and define the `audio_files` table schema in an SQL file.
++ [x] **Step 1.3: Database Provisioning & Schema:** Provision a Vercel Postgres database and define the `audio_files` table schema in an SQL file.
 + [ ] **Step 1.4: File Storage Provisioning:** Enable Vercel Blob for the project.
 + [ ] **Step 1.5: Implement Upload API Endpoint:** Create the `POST /api/upload` endpoint, integrating `multer`, the Vercel Blob SDK, and the Postgres client to handle file uploads and metadata insertion.
 + [ ] **Step 1.6: Create Secure Admin Page:** In React, create an `AdminUpload` component and use `react-router-dom` to place it on a secret, unguessable route defined by an environment variable.
